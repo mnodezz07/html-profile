@@ -1,0 +1,107 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h1 {
+    color: rgb(110, 74, 6);
+    text-align: center;
+    margin-top: 20px;
+}
+h2 {
+    color: rgb(3, 79, 57);
+    text-align: center;
+    margin-top: 20px;
+}
+h3 {
+    color: rgb(128, 6, 100);
+    text-align: center;
+    margin-top: 20px;
+}
+li {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#js-list-items {
+    color: rgb(48, 48, 2);
+    list-style-type: square;
+    padding-left: 20px;
+}
+img {
+    color: rgb(140, 153, 191);
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(6, 38, 128);
+    color: white;
+}
+#p-alert{
+
+  color: #ff0000; 
+  background-color: #f8d7da; 
+    border: 1px solid #f5c6cb; 
+    text-align: center; 
+
+}
+#special {
+  text-decoration: underline; color: #084a6985; 
+    background-color: rgba(255, 255, 224, 0.377); 
+
+
+}
+.unique-para {
+  text-decoration: underline; color: #f010bc85; 
+    background-color: rgba(244, 244, 5, 0.377); 
+    font-weight: bold; 
+}
+
+/* Style the Product Card */
+/* .product-card {
+    background-color: #f0f8ff;
+    text-align: center; */
+    /* padding: 1em;
+    border: 1px solid #ddd;
+    margin: 1em;
+    width: 20%;
+    box-sizing: border-box; */
+}
+
+/* Style the Product Title */
+/* .product-card h3 {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+} */
+
+/* Style Description and Price */
+/* .product-card p {
+    margin-bottom: 0.25em;
+} */
+
+/* Style the Image */
+/* .product-card img {
+    width: 100%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+} */
+/* .product-card li {
+    list-style-type: none;
+    padding: 0.5em 0;
+} */
+/* .product-card img {
+    width: 20%;
+    height: auto;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+} */
